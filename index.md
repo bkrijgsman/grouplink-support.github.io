@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Het support center voor jouw event app!
+# Het support center voor jouw GroupLink app!
 {: .fs-9 }
 
 Via het support center heb je direct toegang tot alles wat je nodig hebt voor het lanceren van een succesvolle GroupLink app.
