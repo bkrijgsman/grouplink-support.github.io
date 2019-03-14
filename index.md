@@ -9,7 +9,7 @@ permalink: /
 # Het support center voor jouw event app!
 {: .fs-9 }
 
-Via het support center heb je direct toegang tot alles wat je nodig hebt voor het lanceren van een succesvolle event app.
+Via het support center heb je direct toegang tot alles wat je nodig hebt voor het lanceren van een succesvolle GroupLink app.
 {: .fs-6 .fw-300 }
 
 [Getting started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [App content](/content){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -34,7 +34,7 @@ Hier komt uitleg over de launch.
 
 ## Over het support center
 
-Ontwikkeld door &copy; 2017-2019 by [EventInsight](http://www.eventinsight.io).
+Ontwikkeld door &copy; 2017-2019 by [GroupLink](http://www.grouplink.app).
 
 ### Mee helpen
 
