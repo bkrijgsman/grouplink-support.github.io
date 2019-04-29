@@ -20,7 +20,7 @@ In dit artikel wordt beschreven hoe je ons toegang verleent tot het eerder gereg
 ---
 
 ## Overzicht
-Door deze stap uit te voeren verleen je ons toegang tot het eerder geregistreerde Apple Developers Account. We kunnen de app pas pushen nadat dit gebeurd is. Indien je nog geen Apple Developers Account hebt, volg dan eerst de handleiding [hier](/apple-dev).
+Door deze stap uit te voeren verleen je ons toegang tot het eerder geregistreerde Apple Developers Account. We kunnen de app pas pushen nadat dit gebeurd is. Indien je nog geen Apple Developers Account hebt, volg dan eerst de handleiding [hier](/docs/startup/apple-dev).
 
 ## Accounttoegang verlenen
 
