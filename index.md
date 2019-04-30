@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Support voor Grouplink"
 permalink: /
 ---
 
@@ -12,23 +12,7 @@ permalink: /
 Via het support center heb je direct toegang tot alles wat je nodig hebt voor het lanceren van een succesvolle GroupLink app.
 {: .fs-6 .fw-300 }
 
-[Getting started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [App content](/content){: .btn .fs-5 .mb-4 .mb-md-0 }
-
----
-
-## Getting started
-
-### Vragenlijst
-
-Hier komt uitleg over de vragenlijst.
-
-### Setup meeting
-
-Hier komt uitleg over de setup meeting. 
-
-### Launch
-
-Hier komt uitleg over de launch.
+[Getting started](/startup){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [App content](/content){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
