@@ -36,4 +36,4 @@ Om de app in de Apple App Store te publiceren heeft jouw organisatie een Apple D
 
 6. Log in op [https://developers.apple.com/](https://developers.apple.com/) en accepteer de voorwaarden. Hiervoor moet two-factor authenticatie actief zijn. 
 
-Het Apple Developers Account is nu actief en kan gebruikt worden.
+Het Apple Developers Account is nu actief en kan gebruikt worden. **Let op: voordat we de app kunnen pushen moet je ons nog toegang verlenen tot het account**. Dit doe je door deze stappen te volgen: [accounttoegang verlenen](/docs/startup/invite-apple)
