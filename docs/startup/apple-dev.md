@@ -20,7 +20,7 @@ In dit artikel wordt alles beschreven met betrekking tot het Apple Developers Ac
 ---
 
 ## Overzicht
-Om de app in de Apple App Store te publiceren heeft jouw organisatie een Apple Developers Account nodig. Het aanmaken van het Apple Developers Account duurt ongeveer 30 minuten. Apple keurt het account dan binnen enkele werkdagen goed. Zodra het account is goedgekeurd kan het gebruikt worden om apps te publiceren. Op dat moment moet EventInsight toegang krijgen tot het account, zodat wij namens jouw organisatie de app kunnen publiceren. Het verlenen van toegang kost ongeveer 5 minuten. De handleiding voor het verlenen van toegang kan je [hier](/docs/startup/invite-apple)
+Om de app in de Apple App Store te publiceren heeft jouw organisatie een Apple Developers Account nodig. Het aanmaken van het Apple Developers Account duurt ongeveer 30 minuten. Apple keurt het account dan binnen enkele werkdagen goed. Zodra het account is goedgekeurd kan het gebruikt worden om apps te publiceren. Op dat moment moet EventInsight toegang krijgen tot het account, zodat wij namens jouw organisatie de app kunnen publiceren. Het verlenen van toegang kost ongeveer 5 minuten. De handleiding voor het verlenen van toegang kan je [hier](/docs/startup/invite-apple) vinden.
 
 ## Registratie Apple ID
 1. Maak een Apple ID aan via [https://appleid.apple.com/account#!&page=create](https://appleid.apple.com/account#!&page=create). <br>
